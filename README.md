@@ -1,16 +1,49 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Arbaz
 
-<!--
-**Arbaz-Baig/Arbaz-Baig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>&nbsp;</p>
 
-Here are some ideas to get you started:
+✨ **About Me in 30 secs**✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I am a Software Engineer and currently transitioning into Data Analytics 
+- 📊 I am currently obtaining the Google Data Analytics Certificate
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arbaz-baig/)
+
+
+<p>&nbsp;</p>
+ 
+ 💡**Skills**💡:
+ 
+- SQL
+- Microsoft Excel
+- Power BI
+- Tableau
+
+
+ <p>&nbsp;</p>
+ 
+ 📚**Courses and Certifications**📚
+ 
+ - Google Data Analytics Certification: In-Progress
+ 
+  <p>&nbsp;</p>
+ 
+  👩‍💻**Projects on SQL**👩‍💻
+
+- **Danny's Dinner**: [Click HERE](https://github.com/Arbaz-Baig/Dannys_Dinner/blob/main/Solution.sql)
+
+- **COVID Project**: [Click HERE](https://github.com/Arbaz-Baig/CovidProject/blob/main/CovidProject.sql)
+
+- **Nashville Housing Data Cleaning**: [Click HERE](https://github.com/Arbaz-Baig/NashvilleHousing/blob/main/NashvilleHousing_DataCleaning.sql)
+
+<p>&nbsp;</p>
+ 
+ ⚡**Projects on Tableau**⚡
+ 
+ - **Aibnb Seattle**: [Click HERE](https://public.tableau.com/app/profile/arbaz.baig/viz/AirbnbSeattle_16628117262790/Dashboard1)
+ 
+ - **COVID Dashboard**: [Click HERE](https://public.tableau.com/app/profile/arbaz.baig/viz/CovidDashboard_16629211454550/Dashboard1)
+ 
+ <p>&nbsp;</p>
+ 
+ 
+ [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=Arbaz-Baig&count_private=true&show_icons=true&theme=algolia&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
