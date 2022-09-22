@@ -5,7 +5,7 @@
 ✨ **About Me in 30 secs**✨
 
 - 💻 I am a Software Engineer and currently transitioning into Data Analytics 
-- 📊 I am currently obtaining the Google Data Analytics Certificate
+- 📊 I obtained the Google Data Analytics Certificate in September 2022
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arbaz-baig/)
 
 
@@ -23,7 +23,7 @@
  
  📚**Courses and Certifications**📚
  
- - Google Data Analytics Certification: In-Progress
+ - Google Data Analytics Certification: Completed September 2022
  
   <p>&nbsp;</p>
  
