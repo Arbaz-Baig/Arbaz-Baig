@@ -16,6 +16,7 @@
 - SQL
 - Microsoft Excel
 - Power BI
+- Python
 - Tableau
 
 
