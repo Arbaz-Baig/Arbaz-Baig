@@ -23,13 +23,13 @@
  
  ###  👩‍💻***Projects on SQL***👩‍💻
 
-- ***Danny's Dinner***: Click [HERE](https://github.com/Arbaz-Baig/Dannys_Dinner/blob/main/Solution.sql)
+- ***Danny's Dinner*** : Click [HERE](https://github.com/Arbaz-Baig/Dannys_Dinner/blob/main/Solution.sql)
 
-- ***COVID Project***: Click [HERE](https://github.com/Arbaz-Baig/CovidProject/blob/main/CovidProject.sql)
+- ***COVID Project*** : Click [HERE](https://github.com/Arbaz-Baig/CovidProject/blob/main/CovidProject.sql)
 
-- ***Nashville Housing Data Cleaning***: Click [HERE](https://github.com/Arbaz-Baig/NashvilleHousing/blob/main/NashvilleHousing_DataCleaning.sql)
+- ***Nashville Housing Data Cleaning*** : Click [HERE](https://github.com/Arbaz-Baig/NashvilleHousing/blob/main/NashvilleHousing_DataCleaning.sql)
 
-- ***Pizza Runner***: Click [HERE](https://github.com/Arbaz-Baig/Pizza-Runner)
+- ***Pizza Runner*** : Click [HERE](https://github.com/Arbaz-Baig/Pizza-Runner)
 
  
  ### ⚡***Projects on Tableau***⚡
