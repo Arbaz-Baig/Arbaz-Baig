@@ -1,7 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Arbaz
 
-<p>&nbsp;</p>
-
 ### ✨  ***About Me in 30 secs***✨
 
 - 💻 I am a Software Engineer and currently transitioning into Data Analytics 
@@ -19,8 +17,6 @@
 - Python
 - Tableau
 
-
- <p>&nbsp;</p>
  
  ### 📚***Courses and Certifications***📚
  
