@@ -5,7 +5,6 @@
 
 - 💻 I am a Software Engineer and currently transitioning into Data Analytics 
 - 📊 I obtained the Google Data Analytics Certificate in September 2022
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arbaz-baig/)
 
 
 ###  💡***Skills***💡:
@@ -39,7 +38,7 @@
   
  
  ### 🙌🏻 Connect with Me
-- [LinkedIn]
+- [LinkedIn](https://www.linkedin.com/in/arbaz-baig/)
 
 
  [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=Arbaz-Baig&count_private=true&show_icons=true&theme=algolia&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
