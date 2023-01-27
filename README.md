@@ -29,7 +29,7 @@
 
 - ***Nashville Housing Data Cleaning***: Click [HERE](https://github.com/Arbaz-Baig/NashvilleHousing/blob/main/NashvilleHousing_DataCleaning.sql)
 
-- ***Pizza Runner***: Click [HERE]
+- ***Pizza Runner***: Click [HERE](https://github.com/Arbaz-Baig/Pizza-Runner)
 
  
  ### ⚡***Projects on Tableau***⚡
