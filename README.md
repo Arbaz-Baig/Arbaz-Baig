@@ -7,7 +7,6 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arbaz-baig/)
 
 
-<p>&nbsp;</p>
  
 ###  💡***Skills***💡:
  
