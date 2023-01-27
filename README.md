@@ -23,20 +23,20 @@
  
  ###  👩‍💻***Projects on SQL***👩‍💻
 
-- ***Danny's Dinner***: [Click HERE](https://github.com/Arbaz-Baig/Dannys_Dinner/blob/main/Solution.sql)
+- ***Danny's Dinner***: Click [HERE](https://github.com/Arbaz-Baig/Dannys_Dinner/blob/main/Solution.sql)
 
-- ***COVID Project***: [Click HERE](https://github.com/Arbaz-Baig/CovidProject/blob/main/CovidProject.sql)
+- ***COVID Project***: Click [HERE](https://github.com/Arbaz-Baig/CovidProject/blob/main/CovidProject.sql)
 
-- ***Nashville Housing Data Cleaning***: [Click HERE](https://github.com/Arbaz-Baig/NashvilleHousing/blob/main/NashvilleHousing_DataCleaning.sql)
+- ***Nashville Housing Data Cleaning***: Click [HERE](https://github.com/Arbaz-Baig/NashvilleHousing/blob/main/NashvilleHousing_DataCleaning.sql)
 
-- ***Pizza Runner***: [Click HERE]
+- ***Pizza Runner***: Click [HERE]
 
  
  ### ⚡***Projects on Tableau***⚡
  
- - ***Aibnb Seattle***: [Click HERE](https://public.tableau.com/app/profile/arbaz.baig/viz/AirbnbSeattle_16628117262790/Dashboard1)
+ - ***Aibnb Seattle***: Click [HERE](https://public.tableau.com/app/profile/arbaz.baig/viz/AirbnbSeattle_16628117262790/Dashboard1)
  
- - ***COVID Dashboard***: [Click HERE](https://public.tableau.com/app/profile/arbaz.baig/viz/CovidDashboard_16629211454550/Dashboard1)
+ - ***COVID Dashboard***: Click [HERE](https://public.tableau.com/app/profile/arbaz.baig/viz/CovidDashboard_16629211454550/Dashboard1)
   
  
  ### 🙌  ***Connect with Me***
