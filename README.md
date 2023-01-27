@@ -30,7 +30,7 @@
  
   👩‍💻**Projects on SQL**👩‍💻
 
-- **Danny's Dinner**: [Click HERE](https://github.com/Arbaz-Baig/Dannys_Dinner/blob/main/Solution.sql)
+- ***Danny's Dinner***: [Click HERE](https://github.com/Arbaz-Baig/Dannys_Dinner/blob/main/Solution.sql)
 
 - **COVID Project**: [Click HERE](https://github.com/Arbaz-Baig/CovidProject/blob/main/CovidProject.sql)
 
