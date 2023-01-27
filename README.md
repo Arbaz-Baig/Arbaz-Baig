@@ -37,7 +37,7 @@
  - ***COVID Dashboard***: [Click HERE](https://public.tableau.com/app/profile/arbaz.baig/viz/CovidDashboard_16629211454550/Dashboard1)
   
  
- ### 🙌🏻 Connect with Me
+ ### 🙌  ***Connect with Me***
 - [LinkedIn](https://www.linkedin.com/in/arbaz-baig/)
 
 
