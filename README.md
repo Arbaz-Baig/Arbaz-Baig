@@ -2,7 +2,7 @@
 
 <p>&nbsp;</p>
 
-✨ **About Me in 30 secs**✨
+✨ ### **About Me in 30 secs**✨
 
 - 💻 I am a Software Engineer and currently transitioning into Data Analytics 
 - 📊 I obtained the Google Data Analytics Certificate in September 2022
