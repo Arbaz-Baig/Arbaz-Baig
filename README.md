@@ -2,12 +2,12 @@
 
 ### ✨  ***About Me in 30 secs***✨
 
+
 - 💻 I am a Software Engineer and currently transitioning into Data Analytics 
 - 📊 I obtained the Google Data Analytics Certificate in September 2022
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arbaz-baig/)
 
 
- 
 ###  💡***Skills***💡:
  
 - SQL
@@ -21,7 +21,6 @@
  
  - Google Data Analytics Certification: Completed September 2022
  
-  <p>&nbsp;</p>
  
  ###  👩‍💻***Projects on SQL***👩‍💻
 
@@ -31,7 +30,6 @@
 
 - ***Nashville Housing Data Cleaning***: [Click HERE](https://github.com/Arbaz-Baig/NashvilleHousing/blob/main/NashvilleHousing_DataCleaning.sql)
 
-<p>&nbsp;</p>
  
  ### ⚡***Projects on Tableau***⚡
  
@@ -39,7 +37,6 @@
  
  - ***COVID Dashboard***: [Click HERE](https://public.tableau.com/app/profile/arbaz.baig/viz/CovidDashboard_16629211454550/Dashboard1)
  
- <p>&nbsp;</p>
  
  
  [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=Arbaz-Baig&count_private=true&show_icons=true&theme=algolia&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
