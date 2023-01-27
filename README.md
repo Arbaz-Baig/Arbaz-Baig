@@ -11,7 +11,7 @@
 
 <p>&nbsp;</p>
  
- 💡***Skills***💡:
+###  💡***Skills***💡:
  
 - SQL
 - Microsoft Excel
@@ -22,13 +22,13 @@
 
  <p>&nbsp;</p>
  
- 📚***Courses and Certifications***📚
+ ### 📚***Courses and Certifications***📚
  
  - Google Data Analytics Certification: Completed September 2022
  
   <p>&nbsp;</p>
  
-  👩‍💻***Projects on SQL***👩‍💻
+ ###  👩‍💻***Projects on SQL***👩‍💻
 
 - ***Danny's Dinner***: [Click HERE](https://github.com/Arbaz-Baig/Dannys_Dinner/blob/main/Solution.sql)
 
@@ -38,7 +38,7 @@
 
 <p>&nbsp;</p>
  
- ⚡***Projects on Tableau***⚡
+ ### ⚡***Projects on Tableau***⚡
  
  - ***Aibnb Seattle***: [Click HERE](https://public.tableau.com/app/profile/arbaz.baig/viz/AirbnbSeattle_16628117262790/Dashboard1)
  
