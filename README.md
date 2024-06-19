@@ -3,9 +3,11 @@
 ### ✨  ***About Me in 30 secs***✨
 
 
-- 💻 I am a Software Engineer and currently transitioning into Data Analytics 
+- 💻 Data Analyst looking for new oppurtunities 
 - 📊 I obtained the Google Data Analytics Certificate in September 2022
 
+ ### 🙌  ***Connect with Me***
+- [LinkedIn](https://www.linkedin.com/in/arbaz-baig/)
 
 ###  💡***Skills***💡:
  
@@ -14,6 +16,7 @@
 - Power BI
 - Python
 - Tableau
+- Microsoft SQL Server
 
  
  ### 📚***Courses and Certifications***📚
@@ -34,13 +37,14 @@
  
  ### ⚡***Projects on Tableau***⚡
  
- - ***Aibnb Seattle***: Click [HERE](https://public.tableau.com/app/profile/arbaz.baig/viz/AirbnbSeattle_16628117262790/Dashboard1)
+ - ***Airbnb Seattle***: Click [HERE](https://public.tableau.com/app/profile/arbaz.baig/viz/AirbnbSeattle_16628117262790/Dashboard1)
  
  - ***COVID Dashboard***: Click [HERE](https://public.tableau.com/app/profile/arbaz.baig/viz/CovidDashboard_16629211454550/Dashboard1)
+
+ - ***Netflix Dashboard***: Click [HERE](https://public.tableau.com/app/profile/arbaz.baig/viz/NetfixDashboard_17185630510790/Netflix)
   
  
- ### 🙌  ***Connect with Me***
-- [LinkedIn](https://www.linkedin.com/in/arbaz-baig/)
+
 
 
  [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=Arbaz-Baig&count_private=true&show_icons=true&theme=algolia&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
