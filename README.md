@@ -4,7 +4,7 @@
 
 
 - 💻 Data Analyst looking for new oppurtunities 
-- 📊 I obtained the Google Data Analytics Certificate in September 2022
+- 📊 I obtained the Google Data Analytics Certificate
 
  ### 🙌  ***Connect with Me***
 - [LinkedIn](https://www.linkedin.com/in/arbaz-baig/)
